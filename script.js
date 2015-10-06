@@ -11,4 +11,4 @@ var changeFormat = document.getElementById("exe");
 changeFormat.setAttribute("align", "center");
 
 var changeTitle = document.getElementsByTagName("HEADER")[0];
-changeTitle  .setAttribute("align", "center");
+changeTitle.setAttribute("align", "center");
